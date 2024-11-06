@@ -1,11 +1,9 @@
 # 💫 About Me:
-👋 Hi there! I’m Charan, a full-stack developer fueled by a passion for software development and an enthusiasm for problem-solving.
+👋 Hi there! I’m Charan, a software developer fueled by a passion for coding and a love for solving complex problems.
 
-💻 I thrive on tackling new challenges and believe that every project is an opportunity to learn and grow. I’m eager to connect with like-minded individuals who share a passion for innovation and creativity in the tech space.
+💻 I thrive on new challenges and see each project as a chance to learn and grow. I’m always eager to connect with others who share a love for technology, innovation, and creativity.
 
-🌱 When I’m not coding, you can find me meditating, exercising, and diving into books. I’m always seeking to expand my skills and enhance my lifestyle, aiming for a balanced and fulfilling life.
-
-
+🌱 Beyond coding, I enjoy meditation, staying active, and diving into books. I’m constantly expanding my skills and striving for a balanced, fulfilling life.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charan-m-b335a0320/) 
 
